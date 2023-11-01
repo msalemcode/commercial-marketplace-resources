@@ -122,7 +122,7 @@ This library of technical content is designed to help speed your time to publish
 
 ### Sample projects
 
-- [Metered Billing Accelerator](https://github.com/microsoft/commercial-marketplace-ama-metering-accelerator)
+- [Custom Metered Accelerator](https://github.com/microsoft/custom-meters-accelerator)
 - [Azure App Management Extras](https://github.com/Azure/azure-marketplace-management-extras) - Contains two Azure Function applications designed to help Managed Application solution owners in Partner Centre monitor and manage their deployed apps.
 - [Commercial Marketplace Solutions](https://github.com/microsoft/commercial-marketplace-solutions) - A set of solutions for various scenarios to do with various offer types.
   
